@@ -1,0 +1,1 @@
+# ssmparameter-store
