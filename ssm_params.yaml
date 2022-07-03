@@ -1,0 +1,21 @@
+parameter:
+    param1:
+      name: tgw_id
+      description: "Transit Gateway ID"
+      type: "String"
+      value: “xxxxxx”
+    param2:
+      name: primary_region
+      description: "Primary Region"
+      type: "SecureString"
+      value: "eu-west-1"
+    param3:
+      name: secondary_region
+      description: "Secondary Region for components like MSAD"
+      type: "String"
+      value: "eu-central-1"
+    param4:
+      name: secondary_region2
+      description: "Secondary Region for components"
+      type: "String"
+      value: "eu-central-2"
